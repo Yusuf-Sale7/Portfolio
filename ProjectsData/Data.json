@@ -1,0 +1,747 @@
+[
+  {
+    "id": 1,
+    "name": "Oreed",
+    "path" : "Oreed",
+    "logo": "/Assets/imgs/works/Oreed/logo.png",
+    "description": "Oreed is an application for delivery and indoor systems for restaurants and cafes.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "HTML"
+      },
+      {
+        "id": 3,
+        "tech": "CSS"
+      },
+      {
+        "id": 4,
+        "tech": "Vue JS"
+      },
+      {
+        "id": 5,
+        "tech": "UIKIT"
+      },
+      {
+        "id": 6,
+        "tech": "i18N"
+      },
+      {
+        "id": 7,
+        "tech": "Vuelidate"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Oreed/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Oreed/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Oreed/Web/3.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Takkat",
+    "path" : "Takkat",
+    "logo": "/Assets/imgs/works/Takkat/logo.png",
+    "description": "Takkat is a software company.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "HTML"
+      },
+      {
+        "id": 2,
+        "tech": "CSS"
+      },
+      {
+        "id": 3,
+        "tech": "Vue JS"
+      },
+      {
+        "id": 4,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Takkat/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Takkat/Web/2.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ana Fayez",
+    "path" : "AnaFayez",
+    "logo": "/Assets/imgs/works/AnaFayez/logo.png",
+    "description": "Ana Fayez is a gifts and festivals website.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "HTML"
+      },
+      {
+        "id": 2,
+        "tech": "CSS"
+      },
+      {
+        "id": 3,
+        "tech": "jQuery"
+      },
+      {
+        "id": 4,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/AnaFayez/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/AnaFayez/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/AnaFayez/Web/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/AnaFayez/Web/4.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Medad",
+    "path" : "Medad",
+    "logo": "/Assets/imgs/works/Medad/logo.png",
+    "description": "Medad is a website to sell and rent real estate, it will be launched in Saudi Arabia.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "HTML"
+      },
+      {
+        "id": 3,
+        "tech": "CSS"
+      },
+      {
+        "id": 4,
+        "tech": "jQuery"
+      },
+      {
+        "id": 5,
+        "tech": "UIKIT"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Medad/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Medad/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Medad/Web/3.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Doctors World",
+    "path" : "DrsWorld",
+    "logo": "/Assets/imgs/works/DrsWorld/logo.png",
+    "description": "Doctors World is an interactive online platform, where thousands of doctors and patients can reach each other, based on the doctors profile and our advanced search criteria.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "HTML"
+      },
+      {
+        "id": 3,
+        "tech": "CSS"
+      },
+      {
+        "id": 4,
+        "tech": "jQuery"
+      },
+      {
+        "id": 5,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/DrsWorld/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/DrsWorld/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/DrsWorld/Web/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/DrsWorld/Web/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/DrsWorld/Web/5.png"
+      },
+      {
+        "id": 6,
+        "src": "/Assets/imgs/works/DrsWorld/Web/6.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Merjan",
+    "path" : "Merjan",
+    "logo": "/Assets/imgs/works/Merjan/logo.png",
+    "description": "Merjan is a traveling and booking hotels website launched in Iraq.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "HTML"
+      },
+      {
+        "id": 2,
+        "tech": "CSS"
+      },
+      {
+        "id": 3,
+        "tech": "jQuery"
+      },
+      {
+        "id": 4,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Merjan/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Merjan/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Merjan/Web/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/Merjan/Web/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/Merjan/Web/5.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Moaaen",
+    "path" : "Moaaen",
+    "logo": "/Assets/imgs/works/Moaaen/logo.png",
+    "description": "Moaaen is a eal estate appraisal system, it launched in Saudi Arabia.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "HTML"
+      },
+      {
+        "id": 3,
+        "tech": "CSS"
+      },
+      {
+        "id": 4,
+        "tech": "jQuery"
+      },
+      {
+        "id": 5,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Moaaen/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Moaaen/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Moaaen/Web/3.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ceremony Stars",
+    "path" : "CeremonyStars",
+    "logo": "/Assets/imgs/works/CeremonyStars/logo.png",
+    "description": "Ceremony Stars is a fashion and makeup website, launched in Saudi Arabia.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "HTML"
+      },
+      {
+        "id": 2,
+        "tech": "CSS"
+      },
+      {
+        "id": 3,
+        "tech": "jQuery"
+      },
+      {
+        "id": 4,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/5.png"
+      },
+      {
+        "id": 6,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/6.png"
+      },
+      {
+        "id": 7,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/7.png"
+      },
+      {
+        "id": 8,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/8.png"
+      },
+      {
+        "id": 9,
+        "src": "/Assets/imgs/works/CeremonyStars/Web/9.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ketabak",
+    "path" : "Ketabak",
+    "logo": "/Assets/imgs/works/Ketabak/logo.png",
+    "description": "Ketabak is an e-book store.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "HTML"
+      },
+      {
+        "id": 2,
+        "tech": "CSS"
+      },
+      {
+        "id": 3,
+        "tech": "jQuery"
+      },
+      {
+        "id": 4,
+        "tech": "Bootstrap"
+      },
+      {
+        "id": 5,
+        "tech": "Charts JS"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Ketabak/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Ketabak/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Ketabak/Web/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/Ketabak/Web/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/Ketabak/Web/5.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "NTS",
+    "path" : "NTS",
+    "logo": "/Assets/imgs/works/NTS/logo.png",
+    "description": "NTS is a software company.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "HTML"
+      },
+      {
+        "id": 3,
+        "tech": "CSS"
+      },
+      {
+        "id": 4,
+        "tech": "jQuery"
+      },
+      {
+        "id": 5,
+        "tech": "Bootstrap"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/NTS/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/NTS/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/NTS/Web/3.png"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Salam",
+    "path" : "Salam",
+    "logo": "/Assets/imgs/works/Salam/logo.png",
+    "description": "Salam is a management system.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "HTML"
+      },
+      {
+        "id": 2,
+        "tech": "CSS"
+      },
+      {
+        "id": 3,
+        "tech": "jQuery"
+      },
+      {
+        "id": 4,
+        "tech": "Bootstrap"
+      },
+      {
+        "id": 5,
+        "tech": "Charts JS"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Salam/Web/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Salam/Web/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Salam/Web/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/Salam/Web/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/Salam/Web/5.png"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Oreed",
+    "path" : "OreedApp",
+    "logo": "/Assets/imgs/works/Oreed/Icon.png",
+    "description": "Oreed App is an application for delivery and indoor systems for restaurants and cafes.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "Adobe Photoshop"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Oreed/App/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Oreed/App/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Oreed/App/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/Oreed/App/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/Oreed/App/5.png"
+      },
+      {
+        "id": 6,
+        "src": "/Assets/imgs/works/Oreed/App/6.png"
+      },
+      {
+        "id": 7,
+        "src": "/Assets/imgs/works/Oreed/App/7.png"
+      },
+      {
+        "id": 8,
+        "src": "/Assets/imgs/works/Oreed/App/8.png"
+      },
+      {
+        "id": 9,
+        "src": "/Assets/imgs/works/Oreed/App/9.png"
+      },
+      {
+        "id": 10,
+        "src": "/Assets/imgs/works/Oreed/App/10.png"
+      },
+      {
+        "id": 11,
+        "src": "/Assets/imgs/works/Oreed/App/11.png"
+      },
+      {
+        "id": 12,
+        "src": "/Assets/imgs/works/Oreed/App/12.png"
+      },
+      {
+        "id": 13,
+        "src": "/Assets/imgs/works/Oreed/App/13.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Medad",
+    "path" : "MedadApp",
+    "logo": "/Assets/imgs/works/Medad/logo.png",
+    "description": "Medad is a website to sell and rent real estate, it will be launched in Saudi Arabia.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "Adobe Photoshop"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Medad/App/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Medad/App/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Medad/App/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/Medad/App/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/Medad/App/5.png"
+      },
+      {
+        "id": 6,
+        "src": "/Assets/imgs/works/Medad/App/6.png"
+      },
+      {
+        "id": 7,
+        "src": "/Assets/imgs/works/Medad/App/7.png"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Doctors World",
+    "path" : "DrsWorldApp",
+    "logo": "/Assets/imgs/works/DrsWorld/logo.png",
+    "description": "Doctors World is an interactive online platform, where thousands of doctors and patients can reach each other, based on the doctors profile and our advanced search criteria.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "Adobe Photoshop"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/DrsWorld/App/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/DrsWorld/App/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/DrsWorld/App/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/DrsWorld/App/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/DrsWorld/App/5.png"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mubeen",
+    "path" : "Mubeen",
+    "logo": "/Assets/imgs/works/Mubeen/logo.png",
+    "description": "Mubeen App is a muslim application for Azkar and Tasbeeh.",
+    "techs": [
+      {
+        "id": 1,
+        "tech": "Adobe XD"
+      },
+      {
+        "id": 2,
+        "tech": "Adobe Photoshop"
+      }
+    ],
+    "imgs": [
+      {
+        "id": 1,
+        "src": "/Assets/imgs/works/Mubeen/1.png"
+      },
+      {
+        "id": 2,
+        "src": "/Assets/imgs/works/Mubeen/2.png"
+      },
+      {
+        "id": 3,
+        "src": "/Assets/imgs/works/Mubeen/3.png"
+      },
+      {
+        "id": 4,
+        "src": "/Assets/imgs/works/Mubeen/4.png"
+      },
+      {
+        "id": 5,
+        "src": "/Assets/imgs/works/Mubeen/5.png"
+      },
+      {
+        "id": 6,
+        "src": "/Assets/imgs/works/Mubeen/6.png"
+      },
+      {
+        "id": 7,
+        "src": "/Assets/imgs/works/Mubeen/7.png"
+      },
+      {
+        "id": 8,
+        "src": "/Assets/imgs/works/Mubeen/8.png"
+      },
+      {
+        "id": 9,
+        "src": "/Assets/imgs/works/Mubeen/9.png"
+      },
+      {
+        "id": 10,
+        "src": "/Assets/imgs/works/Mubeen/10.png"
+      },
+      {
+        "id": 11,
+        "src": "/Assets/imgs/works/Mubeen/11.png"
+      }
+    ]
+  }
+]
