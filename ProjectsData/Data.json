@@ -528,7 +528,7 @@
     "id": 12,
     "name": "Oreed",
     "path" : "OreedApp",
-    "logo": "/Assets/imgs/works/Oreed/Icon.png",
+    "logo": "/Assets/imgs/works/Oreed/logo.png",
     "description": "Oreed App is an application for delivery and indoor systems for restaurants and cafes.",
     "techs": [
       {
